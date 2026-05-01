@@ -1,0 +1,16 @@
+# API Documentation (private)
+mailtm.api.md
+mail.tm.api.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
